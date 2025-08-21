@@ -15,5 +15,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,python,java,flutter,mysql,postgresql,git,vscode" />
 </p>
-
-- 🌐 [Portfolio](https://username.github.io)
